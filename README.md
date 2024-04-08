@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @PiyushG29
 - 👀 I’m interested in Cybersecurity and Data Science
-- 🌱 I’m currently learning C.
+- 🌱 I’m currently learning C and Python 🐍
