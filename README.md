@@ -31,7 +31,6 @@
   <!-- Stats and Streak Graphs Section -->
   <div>
     <div align="center">
-      <img src="https://streak-stats.demolab.com?user=PiyushG29&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
      <img src="https://github-readme-activity-graph.vercel.app/graph?username=PiyushG29&" height="150" alt="activity-graph graph"  />
     </div>
   </div>
