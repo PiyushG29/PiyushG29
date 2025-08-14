@@ -1,6 +1,6 @@
 <h2 align="left">
   Hi <img align="center" height="40" src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" />
-  ! My name is Piyush, a B.Tech CSE Sophomore. <img align="center" height="120" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" />
+  ! My name is Piyush, a B.Tech CSE Pre-Final Year Student. <img align="center" height="120" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" />
  
 </h2>
 <img align="center" height="10" width='2000' src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
