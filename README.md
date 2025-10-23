@@ -36,6 +36,18 @@
   </div>
 </div>
 <details>
+  <summary><b>Gemini Certified Educator </b></summary><br>
+  <div align="center">
+    <a href="https://www.credential.net/163995213">
+      <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/163995213?key=7b7050cdd4808f51b28e6d0522bc0b9d947a6f89267735dd745cfa9780fc6fbd" 
+           alt="Accredible Certificate" 
+           width="600px" 
+           style="border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.2);" />
+    </a>
+  </div>
+</details>
+
+<details>
   <summary>Programming Languages </b></summary><br>
   <div style='display:flex; align-items:center; gap: 10px;' align='left'>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
